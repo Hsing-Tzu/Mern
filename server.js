@@ -12,7 +12,7 @@ app.use(cors());
 app.use(express.json());
 
 mongoose.connect(
-    "mongodb+srv://41171123h:41171123hpassword@classroommanagement.6k7p0ah.mongodb.net/classroommanagement?retryWrites=true&w=majority",
+    "mongodb+srv://41071105H:41071105H@cluster0.h9q2tfk.mongodb.net/?retryWrites=true&w=majority",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true, 
